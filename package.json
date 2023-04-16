@@ -72,8 +72,8 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@playwright/test": "^1.25.2",
-    "electron": "^20.1.3",
-    "electron-builder": "^23.3.3",
+    "electron": "^24.1.2",
+    "electron-builder": "^23.6.0",
     "electron-notarize": "^1.2.1",
     "playwright": "^1.25.2"
   },
